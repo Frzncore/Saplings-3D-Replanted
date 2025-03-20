@@ -1,6 +1,9 @@
 {
   "pack": {
     "pack_format": 34,
+    		"supported_formats": [
+			46
+		],
     "description": "NinthWorld's Assets-Saplings 3D Replanted\n§8MC1.21 - v1.0.0"
   }
 }
